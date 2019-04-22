@@ -14,7 +14,7 @@ Processor: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
 Memory: 11GiB
 </pre>
 
-## Sample output
+## Output sample
 <pre>
 Get SW and HW specs from your computer with linux
 
