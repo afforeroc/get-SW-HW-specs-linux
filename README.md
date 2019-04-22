@@ -7,7 +7,7 @@
 * Compile: `gcc specs-linux.c -o specs-linux`
 * Execute: `./specs-linux `
 
-### Computer specs that was used
+## Computer specs that was used
 <pre>
 Operative system: Ubuntu 18.10
 Processor: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
