@@ -1,6 +1,9 @@
 # Get SW and HW specs from your computer with Linux
 
-## Steps:
+## System requeriments
+* GCC version: `gcc (Ubuntu 8.2.0-7ubuntu1) 8.2.0`
+
+## Steps
 * Compile: `gcc specs-linux.c -o specs-linux`
 * Execute: `./specs-linux `
 
