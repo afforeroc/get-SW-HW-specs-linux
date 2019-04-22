@@ -1,0 +1,21 @@
+H/W path       Device  Class          Description
+=================================================
+                       system         Computer
+/0                     bus            Motherboard
+/0/0                   memory         11GiB System memory
+/0/1                   processor      Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz
+/0/100                 bridge         Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Host Bridge/DRAM Registers
+/0/100/2               display        Skylake GT2 [HD Graphics 520]
+/0/100/4               generic        Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Thermal Subsystem
+/0/100/14              bus            Sunrise Point-LP USB 3.0 xHCI Controller
+/0/100/14.2            generic        Sunrise Point-LP Thermal subsystem
+/0/100/16              communication  Sunrise Point-LP CSME HECI #1
+/0/100/17              storage        Sunrise Point-LP SATA Controller [AHCI mode]
+/0/100/1c              bridge         Sunrise Point-LP PCI Express Root Port #5
+/0/100/1c/0    enp1s0  network        RTL810xE PCI Express Fast Ethernet controller
+/0/100/1c.5            bridge         Sunrise Point-LP PCI Express Root Port #6
+/0/100/1c.5/0  wlp2s0  network        RTL8723BE PCIe Wireless Network Adapter
+/0/100/1f              bridge         Sunrise Point-LP LPC Controller
+/0/100/1f.2            memory         Memory controller
+/0/100/1f.3            multimedia     Sunrise Point-LP HD Audio
+/0/100/1f.4            bus            Sunrise Point-LP SMBus
